@@ -1,4 +1,4 @@
-# MailToThings3FromConsole
+# MailToThings3
 Console application with ability to send TODOs to your things3 app using "Mail to things" feature.
 
 ## Setup steps
@@ -19,3 +19,5 @@ Console application with ability to send TODOs to your things3 app using "Mail t
     }
    ```
 7. Enjoy app :)
+
+For comfortable usage you can copy build app from `MailToThings3/MailToThings/MailToThings/bin/Debug/net8.0`, save it somewhere, create shortcut for `.exe` file and apply to it icon from repo root. 
