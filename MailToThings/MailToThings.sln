@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailToThings", "MailToThings\MailToThings.csproj", "{C6929D5D-5AF1-46A1-A437-ED2392C3D288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6929D5D-5AF1-46A1-A437-ED2392C3D288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6929D5D-5AF1-46A1-A437-ED2392C3D288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6929D5D-5AF1-46A1-A437-ED2392C3D288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6929D5D-5AF1-46A1-A437-ED2392C3D288}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
