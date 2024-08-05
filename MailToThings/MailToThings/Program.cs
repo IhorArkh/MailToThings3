@@ -51,7 +51,7 @@ class Program
         }
 
         ConfirmSending:
-        Console.WriteLine("Confirm sending? Type y/n");
+        Console.WriteLine("Confirm sending? Type y/n:");
         var confirmSendingAnswer = Console.ReadLine();
 
         if (confirmSendingAnswer != "y" && confirmSendingAnswer != "n")
